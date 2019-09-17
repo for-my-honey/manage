@@ -1,7 +1,7 @@
 # manage
 
 > A Vue.js project
-
+项目享听音乐后台管理系统样式布局
 ## Build Setup
 
 ``` bash
